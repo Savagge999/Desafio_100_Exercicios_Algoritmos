@@ -21,8 +21,8 @@ Os exercícios são voltados para **lógica de programação**, **condições**,
 
 ## ⚡ Status
 
-- Exercícios concluídos: 1 (início)  
-- Exercícios restantes: 99 
+- Exercícios concluídos: 11 (início)  
+- Exercícios restantes: 89 
 - Atualizações contínuas conforme avanço no desafio
 
 ## 📫 Observação
